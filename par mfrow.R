@@ -1,6 +1,0 @@
-attach(mtcars)
-par(mfrow=c(2,2))
-plot(wt,mpg)
-plot(wt,disp)
-hist(wt)
-boxplot(wt)
